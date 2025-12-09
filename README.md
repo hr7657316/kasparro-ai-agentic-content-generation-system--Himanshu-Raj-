@@ -7,7 +7,7 @@ This system uses a multi-agent architecture to generate marketing content for pr
 1.  **Clone the repository:**
     ```bash
     git clone <repository_url>
-    cd kasparro-ai-agentic-content-generation-system-bhumika-singh
+    
     ```
 
 2.  **Install dependencies:**
